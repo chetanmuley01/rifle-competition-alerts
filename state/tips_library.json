@@ -1,0 +1,149 @@
+[
+  {
+    "id": "stance-01",
+    "category": "technique",
+    "text": "Build your stance from the ground up: feet roughly shoulder-width apart, weight centered, and hips slightly rotated so the rifle's weight rests on your skeletal structure, not your muscles. A stance you have to actively hold together with muscle tension will shake as soon as you're tired or nervous.",
+    "source": null,
+    "last_used_date": "2026-08-31"
+  },
+  {
+    "id": "npa-01",
+    "category": "technique",
+    "text": "Set your Natural Point of Aim (NPA) before every shot: close your eyes, relax, then open them and see where the sight has settled. If it isn't on the target center, move your whole body (not just your arms) to correct it. Fighting the rifle back onto target with muscle effort is the fastest way to lose consistency over a match.",
+    "source": null,
+    "last_used_date": "2026-08-31"
+  },
+  {
+    "id": "breathing-01",
+    "category": "technique",
+    "text": "Use a consistent breathing rhythm: take two or three normal breaths, then a half-exhale, and settle into your natural respiratory pause for the shot. Keep that pause under 6-8 seconds \u2014 holding your breath longer than that raises heart rate and destabilizes the hold, not steadies it.",
+    "source": null,
+    "last_used_date": null
+  },
+  {
+    "id": "trigger-01",
+    "category": "technique",
+    "text": "Trigger control should feel like a surprise release, not a decision. Increase pressure smoothly through the natural wobble of your hold rather than 'grabbing' the shot the instant the sight crosses center \u2014 snatching the trigger is one of the most common causes of a good hold turning into a bad score.",
+    "source": null,
+    "last_used_date": null
+  },
+  {
+    "id": "follow-through-01",
+    "category": "technique",
+    "text": "Follow through for a full second or two after the shot breaks: keep your position, keep watching the sight picture, and don't drop the rifle the moment you hear the report. Follow-through is where you catch the small errors (a flinch, an early release) that would otherwise become invisible bad habits.",
+    "source": null,
+    "last_used_date": null
+  },
+  {
+    "id": "grouping-01",
+    "category": "technique",
+    "text": "When you're diagnosing a bad group, look at the pattern before you look at the score. A group that strings vertically usually points to breathing/hold timing issues; one that strings horizontally usually points to trigger control or grip pressure. Fixing the pattern fixes the score.",
+    "source": null,
+    "last_used_date": null
+  },
+  {
+    "id": "pre-shot-routine-01",
+    "category": "mental",
+    "text": "Build a pre-shot routine you repeat identically for every single shot \u2014 same number of breaths, same settle time, same mental cue \u2014 and use it in practice as strictly as in competition. A routine you only use under pressure isn't a routine yet, it's a hope.",
+    "source": null,
+    "last_used_date": null
+  },
+  {
+    "id": "process-over-outcome-01",
+    "category": "mental",
+    "text": "Score comes from process, not the other way around. Between shots, avoid running a live tally in your head ('I need three more tens') \u2014 that pulls your focus onto the outcome and away from the one thing you actually control: executing the next shot well.",
+    "source": null,
+    "last_used_date": null
+  },
+  {
+    "id": "reset-after-bad-shot-01",
+    "category": "mental",
+    "text": "After a bad shot, give yourself a fixed, brief reset \u2014 a breath, a physical cue like relaxing your shoulders, then back to the routine. One bad shot costs you a few points; a bad shot you carry into the next three shots costs you the match.",
+    "source": null,
+    "last_used_date": null
+  },
+  {
+    "id": "competition-nerves-01",
+    "category": "mental",
+    "text": "Nerves before a match are not a sign something is wrong \u2014 elevated arousal is normal and even useful in small amounts. Treat the adrenaline as fuel for focus rather than something to suppress, and let your pre-shot routine do the job of channeling it into the same steady process every time.",
+    "source": null,
+    "last_used_date": null
+  },
+  {
+    "id": "visualization-01",
+    "category": "mental",
+    "text": "Spend a few minutes before a match mentally rehearsing a clean shot from setup to follow-through, in as much sensory detail as you can \u2014 the sight picture, the trigger feel, the sound. Athletes who rehearse this way tend to execute their routine more consistently once the pressure is on.",
+    "source": null,
+    "last_used_date": null
+  },
+  {
+    "id": "focus-narrowing-01",
+    "category": "mental",
+    "text": "As pressure builds late in a match, deliberately narrow your focus to the smallest possible unit: not 'the match', not 'this series', just 'this shot, this breath, this trigger squeeze'. Broad focus invites broad anxiety; narrow focus gives you somewhere to put your attention that you can actually control.",
+    "source": null,
+    "last_used_date": null
+  },
+  {
+    "id": "sight-check-01",
+    "category": "equipment",
+    "text": "Check your sight settings (zero, aperture size, diopter) before every training session and competition \u2014 don't assume yesterday's zero is today's zero. Temperature changes, travel, and rifle handling can all shift settings slightly, and a half-click error compounds over a whole match.",
+    "source": null,
+    "last_used_date": null
+  },
+  {
+    "id": "kit-checklist-01",
+    "category": "equipment",
+    "text": "Keep a written competition-day kit checklist (rifle, pellets, shooting jacket/glove, competitor card, spare batteries for electronic sights, earplugs) and actually use it the night before, not the morning of. The stress of forgetting one item on match day costs you focus you can't get back.",
+    "source": null,
+    "last_used_date": null
+  },
+  {
+    "id": "rifle-maintenance-01",
+    "category": "equipment",
+    "text": "Clean and inspect your barrel and action on a fixed schedule, not just when accuracy drops \u2014 by the time you notice a problem in your groups, it may already have cost you a training block's worth of consistent data. Log what you clean and when, so you can rule maintenance in or out when diagnosing form issues.",
+    "source": null,
+    "last_used_date": null
+  },
+  {
+    "id": "pellet-consistency-01",
+    "category": "equipment",
+    "text": "Stick to one pellet batch/lot for as much of a training and competition cycle as you can, and test a new batch well before a match, not the week of. Pellet-to-pellet consistency affects group size more than most shooters expect, especially at the margins where medals are decided.",
+    "source": null,
+    "last_used_date": null
+  },
+  {
+    "id": "jacket-fit-01",
+    "category": "equipment",
+    "text": "Revisit your shooting jacket and glove fit periodically, especially during growth years \u2014 equipment that fit perfectly six months ago can quietly change your position and NPA without you noticing, since you adapt to small discomforts without registering them consciously.",
+    "source": null,
+    "last_used_date": null
+  },
+  {
+    "id": "bindra-process-01",
+    "category": "interview-insight",
+    "text": "Abhinav Bindra has spoken often about how his Olympic gold came from an obsessive focus on daily process over years, not from chasing the result itself \u2014 treating each ordinary training day with the same seriousness as competition day. The lesson for daily practice: the medal is a byproduct of how you treat an unremarkable Tuesday session.",
+    "source": "Public interviews/writing by Abhinav Bindra",
+    "last_used_date": null
+  },
+  {
+    "id": "bindra-marginal-gains-01",
+    "category": "interview-insight",
+    "text": "Bindra's training philosophy leaned heavily on marginal gains \u2014 small, measurable improvements in equipment, biomechanics, and mental routine compounding over years rather than looking for one big breakthrough. Keeping a simple training log of small changes (stance tweak, breathing timing) is a practical version of this.",
+    "source": "Public interviews/writing by Abhinav Bindra",
+    "last_used_date": null
+  },
+  {
+    "id": "elavenil-composure-01",
+    "category": "interview-insight",
+    "text": "Elavenil Valarivan is frequently described by commentators and coaches as unusually composed under pressure, crediting disciplined routine and mental training as much as raw technique. It's a reminder that mental preparation isn't a soft add-on to technical training \u2014 for elite shooters it's trained with the same rigor as the shot process itself.",
+    "source": "Public commentary on Elavenil Valarivan's competition record",
+    "last_used_date": null
+  },
+  {
+    "id": "coach-feedback-01",
+    "category": "interview-insight",
+    "text": "National-level coaches consistently emphasize that the biggest jump in a junior shooter's consistency usually comes from tightening the pre-shot routine, not from chasing a better rifle or sight. If your equipment is already reasonable for your level, the routine is almost always the higher-leverage place to spend practice time.",
+    "source": "General coaching consensus in Indian shooting sports circles",
+    "last_used_date": null
+  }
+]

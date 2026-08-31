@@ -1,0 +1,770 @@
+{
+  "1d78d6a6e7773ade": {
+    "id": "1d78d6a6e7773ade",
+    "name": "13th West Zone Shooting Championship in Rifle (NR) Events",
+    "level": "national",
+    "discipline": "Rifle",
+    "location": {
+      "venue": "Mandrem, Pernem, Goa",
+      "city": null,
+      "state": "Maharashtra",
+      "country": "India"
+    },
+    "date_start": "2026-09-03",
+    "date_end": "2026-09-06",
+    "registration_deadline": "2026-08-18",
+    "eligibility": {
+      "age_category": null,
+      "gender_category": null,
+      "membership_required": null,
+      "notes": null
+    },
+    "entry_path": "unclear",
+    "organizing_body": "Maharashtra Rifle Association",
+    "source_name": "Maharashtra Rifle Association",
+    "source_url": "https://maharifle.com/mra-downloads/competitions/1786795511_76bc512e598fc903d1ba.pdf",
+    "status": "tentative",
+    "confidence": "medium",
+    "first_seen_date": "2026-08-31",
+    "last_seen_date": "2026-08-31",
+    "reminders_sent": [
+      "new_listing"
+    ]
+  },
+  "5a153bbc60f18197": {
+    "id": "5a153bbc60f18197",
+    "name": "Maharashtra Air and Firearms Competition [MAFC 2026/2] - Mumbai - 10m Air Pistol/Air Rifle - Relays",
+    "level": "state",
+    "discipline": "10m Air Rifle",
+    "location": {
+      "venue": "MRA Shooting Ranges, Mumbai",
+      "city": null,
+      "state": "Maharashtra",
+      "country": "India"
+    },
+    "date_start": "2026-08-29",
+    "date_end": "2026-09-01",
+    "registration_deadline": null,
+    "eligibility": {
+      "age_category": null,
+      "gender_category": null,
+      "membership_required": null,
+      "notes": null
+    },
+    "entry_path": "unclear",
+    "organizing_body": "Maharashtra Rifle Association",
+    "source_name": "Maharashtra Rifle Association",
+    "source_url": "https://maharifle.com/mra-downloads/competitions/1787762084_0d14d46aadb63d1d9921.pdf",
+    "status": "tentative",
+    "confidence": "low",
+    "first_seen_date": "2026-08-31",
+    "last_seen_date": "2026-08-31",
+    "reminders_sent": [
+      "new_listing"
+    ]
+  },
+  "76d21f19add956c7": {
+    "id": "76d21f19add956c7",
+    "name": "69TH NATIONAL SHOOTING CHAMPIONSHIP COMPETITIONS",
+    "date_start": "2026-12-11",
+    "date_end": "2026-12-31",
+    "location": {
+      "venue": "NEW DELHI & BHOPAL",
+      "city": null,
+      "state": null,
+      "country": "India"
+    },
+    "entry_path": "unclear",
+    "source_name": "NRAI Calendar",
+    "source_url": "https://www.thenrai.in/PDF/983fcca0-c839-4d09-b828-5601dc24a912.pdf",
+    "status": "tentative",
+    "confidence": "medium",
+    "first_seen_date": "2026-08-31",
+    "last_seen_date": "2026-08-31",
+    "level": "national",
+    "discipline": "Rifle/Pistol",
+    "registration_deadline": null,
+    "eligibility": {
+      "age_category": null,
+      "gender_category": null,
+      "membership_required": null,
+      "notes": null
+    },
+    "organizing_body": "National Rifle Association of India (NRAI)",
+    "reminders_sent": [
+      "new_listing"
+    ]
+  },
+  "f2fc69eafadf2a9d": {
+    "id": "f2fc69eafadf2a9d",
+    "name": "20th Asian Games",
+    "date_start": "2026-09-17",
+    "date_end": "2026-10-03",
+    "location": {
+      "venue": null,
+      "city": "Aichi-Nagoya, Japan",
+      "state": null,
+      "country": null
+    },
+    "entry_path": "federation-selection",
+    "source_name": "ISSF Calendar",
+    "source_url": "https://www.issf-sports.org/competitions/3314",
+    "status": "confirmed",
+    "confidence": "medium",
+    "first_seen_date": "2026-08-31",
+    "last_seen_date": "2026-08-31",
+    "level": "international",
+    "discipline": "Rifle/Pistol",
+    "registration_deadline": null,
+    "eligibility": {
+      "age_category": null,
+      "gender_category": null,
+      "membership_required": null,
+      "notes": null
+    },
+    "organizing_body": "ISSF",
+    "reminders_sent": [
+      "new_listing"
+    ]
+  },
+  "8e44671a34dfe8da": {
+    "id": "8e44671a34dfe8da",
+    "name": "ISSF World Cup Rifle / Pistol",
+    "date_start": "2026-10-08",
+    "date_end": "2026-10-16",
+    "location": {
+      "venue": null,
+      "city": "Cairo, Egypt",
+      "state": null,
+      "country": null
+    },
+    "entry_path": "federation-selection",
+    "source_name": "ISSF Calendar",
+    "source_url": "https://www.issf-sports.org/competitions/3289",
+    "status": "confirmed",
+    "confidence": "medium",
+    "first_seen_date": "2026-08-31",
+    "last_seen_date": "2026-08-31",
+    "level": "international",
+    "discipline": "Rifle/Pistol",
+    "registration_deadline": null,
+    "eligibility": {
+      "age_category": null,
+      "gender_category": null,
+      "membership_required": null,
+      "notes": null
+    },
+    "organizing_body": "ISSF",
+    "reminders_sent": [
+      "new_listing"
+    ]
+  },
+  "878604bdd8818fe1": {
+    "id": "878604bdd8818fe1",
+    "name": "ISSF World Championship Rifle / Pistol / Shotgun",
+    "date_start": "2026-11-01",
+    "date_end": "2026-11-14",
+    "location": {
+      "venue": null,
+      "city": "Doha, Qatar",
+      "state": null,
+      "country": null
+    },
+    "entry_path": "federation-selection",
+    "source_name": "ISSF Calendar",
+    "source_url": "https://www.issf-sports.org/competitions/3421",
+    "status": "confirmed",
+    "confidence": "medium",
+    "first_seen_date": "2026-08-31",
+    "last_seen_date": "2026-08-31",
+    "level": "international",
+    "discipline": "Rifle/Pistol/Shotgun",
+    "registration_deadline": null,
+    "eligibility": {
+      "age_category": null,
+      "gender_category": null,
+      "membership_required": null,
+      "notes": null
+    },
+    "organizing_body": "ISSF",
+    "reminders_sent": [
+      "new_listing"
+    ]
+  },
+  "152f8ffa630bb241": {
+    "id": "152f8ffa630bb241",
+    "name": "ISSF World Cup Final Rifle / Pistol / Shotgun",
+    "date_start": "2026-12-03",
+    "date_end": "2026-12-08",
+    "location": {
+      "venue": null,
+      "city": "Rome, Italy",
+      "state": null,
+      "country": null
+    },
+    "entry_path": "federation-selection",
+    "source_name": "ISSF Calendar",
+    "source_url": "https://www.issf-sports.org/competitions/3518",
+    "status": "confirmed",
+    "confidence": "medium",
+    "first_seen_date": "2026-08-31",
+    "last_seen_date": "2026-08-31",
+    "level": "international",
+    "discipline": "Rifle/Pistol/Shotgun",
+    "registration_deadline": null,
+    "eligibility": {
+      "age_category": null,
+      "gender_category": null,
+      "membership_required": null,
+      "notes": null
+    },
+    "organizing_body": "ISSF",
+    "reminders_sent": [
+      "new_listing"
+    ]
+  },
+  "1362d41092c62764": {
+    "name": "Asian Rifle/Pistol Championship 2027",
+    "level": "international",
+    "discipline": "Rifle/Pistol",
+    "location": {
+      "venue": null,
+      "city": "New Delhi",
+      "state": null,
+      "country": "India"
+    },
+    "date_start": "2027-01-01",
+    "date_end": null,
+    "registration_deadline": null,
+    "eligibility": {
+      "age_category": null,
+      "gender_category": null,
+      "membership_required": "Indian team selected via NRAI trials",
+      "notes": "8 LA2028 Olympic quota places; exact 2027 dates not yet published (placeholder date_start = year only)"
+    },
+    "entry_path": "federation-selection",
+    "organizing_body": "Asian Shooting Confederation / NRAI (host)",
+    "source_name": "Asian Shooting Confederation",
+    "source_url": "https://www.asia-shooting.org/",
+    "status": "announced",
+    "confidence": "low",
+    "id": "1362d41092c62764",
+    "first_seen_date": "2026-08-31",
+    "last_seen_date": "2026-08-31",
+    "reminders_sent": [
+      "new_listing"
+    ]
+  },
+  "9a740426bdceaa15": {
+    "id": "9a740426bdceaa15",
+    "name": "ISSF WORLD CHAMPIONSHIP - QUOTA EVENT",
+    "date_start": "2026-10-29",
+    "date_end": "2026-11-15",
+    "location": {
+      "venue": "DOHA, QATAR",
+      "city": null,
+      "state": null,
+      "country": "India"
+    },
+    "entry_path": "federation-selection",
+    "source_name": "NRAI Calendar",
+    "source_url": "https://www.thenrai.in/PDF/983fcca0-c839-4d09-b828-5601dc24a912.pdf",
+    "status": "tentative",
+    "confidence": "medium",
+    "first_seen_date": "2026-08-31",
+    "last_seen_date": "2026-08-31",
+    "level": "international",
+    "discipline": "Rifle/Pistol",
+    "registration_deadline": null,
+    "eligibility": {
+      "age_category": null,
+      "gender_category": null,
+      "membership_required": null,
+      "notes": "TEAM TO BE SELECTED AFTER TRIAL 5"
+    },
+    "organizing_body": "National Rifle Association of India (NRAI)",
+    "reminders_sent": [
+      "new_listing"
+    ]
+  },
+  "db8c7bdcdc474c7c": {
+    "id": "db8c7bdcdc474c7c",
+    "name": "45TH NORTH ZONE SHOOTING CHAMPIONSHIP (PISTOL)",
+    "date_start": "2026-08-17",
+    "date_end": "2026-09-02",
+    "location": {
+      "venue": "DEHRADUN",
+      "city": null,
+      "state": null,
+      "country": "India"
+    },
+    "entry_path": "unclear",
+    "source_name": "NRAI Calendar",
+    "source_url": "https://www.thenrai.in/PDF/218de962-8b6d-459b-b69d-8dbf6021fd35.pdf",
+    "status": "tentative",
+    "confidence": "medium",
+    "first_seen_date": "2026-08-31",
+    "last_seen_date": "2026-08-31",
+    "level": "national",
+    "discipline": "Rifle/Pistol",
+    "registration_deadline": null,
+    "eligibility": {
+      "age_category": null,
+      "gender_category": null,
+      "membership_required": null,
+      "notes": null
+    },
+    "organizing_body": "National Rifle Association of India (NRAI)",
+    "reminders_sent": [
+      "new_listing"
+    ]
+  },
+  "e8d0706968420fcf": {
+    "id": "e8d0706968420fcf",
+    "name": "17TH SOUTH ZONE SHOOTING CHAMPIONSHIP (RIFLE/PISTOL)",
+    "date_start": "2026-08-31",
+    "date_end": "2026-09-07",
+    "location": {
+      "venue": "KERALA",
+      "city": null,
+      "state": null,
+      "country": "India"
+    },
+    "entry_path": "unclear",
+    "source_name": "NRAI Calendar",
+    "source_url": "https://www.thenrai.in/PDF/218de962-8b6d-459b-b69d-8dbf6021fd35.pdf",
+    "status": "tentative",
+    "confidence": "medium",
+    "first_seen_date": "2026-08-31",
+    "last_seen_date": "2026-08-31",
+    "level": "national",
+    "discipline": "Rifle/Pistol",
+    "registration_deadline": null,
+    "eligibility": {
+      "age_category": null,
+      "gender_category": null,
+      "membership_required": null,
+      "notes": null
+    },
+    "organizing_body": "National Rifle Association of India (NRAI)",
+    "reminders_sent": [
+      "new_listing"
+    ]
+  },
+  "95889a96175fa6a2": {
+    "id": "95889a96175fa6a2",
+    "name": "28TH AIKSS INTER SCHOOL AIR WEAPONS",
+    "date_start": "2026-08-30",
+    "date_end": "2026-09-06",
+    "location": {
+      "venue": "BHOPAL",
+      "city": null,
+      "state": null,
+      "country": "India"
+    },
+    "entry_path": "unclear",
+    "source_name": "NRAI Calendar",
+    "source_url": "https://www.thenrai.in/PDF/218de962-8b6d-459b-b69d-8dbf6021fd35.pdf",
+    "status": "tentative",
+    "confidence": "medium",
+    "first_seen_date": "2026-08-31",
+    "last_seen_date": "2026-08-31",
+    "level": "national",
+    "discipline": "Rifle/Pistol",
+    "registration_deadline": null,
+    "eligibility": {
+      "age_category": null,
+      "gender_category": null,
+      "membership_required": null,
+      "notes": null
+    },
+    "organizing_body": "National Rifle Association of India (NRAI)",
+    "reminders_sent": [
+      "new_listing"
+    ]
+  },
+  "901ad32c873c6db7": {
+    "id": "901ad32c873c6db7",
+    "name": "45TH NORTH ZONE SHOOTING CHAMPIONSHIP (RIFLE)",
+    "date_start": "2026-09-03",
+    "date_end": "2026-09-08",
+    "location": {
+      "venue": "DEHRADUN",
+      "city": null,
+      "state": null,
+      "country": "India"
+    },
+    "entry_path": "unclear",
+    "source_name": "NRAI Calendar",
+    "source_url": "https://www.thenrai.in/PDF/218de962-8b6d-459b-b69d-8dbf6021fd35.pdf",
+    "status": "tentative",
+    "confidence": "medium",
+    "first_seen_date": "2026-08-31",
+    "last_seen_date": "2026-08-31",
+    "level": "national",
+    "discipline": "Rifle/Pistol",
+    "registration_deadline": null,
+    "eligibility": {
+      "age_category": null,
+      "gender_category": null,
+      "membership_required": null,
+      "notes": null
+    },
+    "organizing_body": "National Rifle Association of India (NRAI)",
+    "reminders_sent": [
+      "new_listing"
+    ]
+  },
+  "cf3b251aa7f30ea1": {
+    "id": "cf3b251aa7f30ea1",
+    "name": "13th West Zone Shooting Championship 2026 in Pistol (NR) Events",
+    "level": "national",
+    "discipline": "Rifle",
+    "location": {
+      "venue": "Ahmedabad, Gujarat",
+      "city": null,
+      "state": "Maharashtra",
+      "country": "India"
+    },
+    "date_start": "2026-09-07",
+    "date_end": "2026-09-13",
+    "registration_deadline": "2026-08-21",
+    "eligibility": {
+      "age_category": null,
+      "gender_category": null,
+      "membership_required": null,
+      "notes": null
+    },
+    "entry_path": "unclear",
+    "organizing_body": "Maharashtra Rifle Association",
+    "source_name": "Maharashtra Rifle Association",
+    "source_url": "https://maharifle.com/mra-downloads/competitions/1785407803_8db14916422ab8a13250.pdf",
+    "status": "tentative",
+    "confidence": "medium",
+    "first_seen_date": "2026-08-31",
+    "last_seen_date": "2026-08-31",
+    "reminders_sent": [
+      "new_listing"
+    ]
+  },
+  "2531e93bedfbedff": {
+    "id": "2531e93bedfbedff",
+    "name": "35TH AIGVMSC IN (RIFLE)",
+    "date_start": "2026-09-12",
+    "date_end": "2026-09-22",
+    "location": {
+      "venue": "MOHALI",
+      "city": null,
+      "state": null,
+      "country": "India"
+    },
+    "entry_path": "unclear",
+    "source_name": "NRAI Calendar",
+    "source_url": "https://www.thenrai.in/PDF/218de962-8b6d-459b-b69d-8dbf6021fd35.pdf",
+    "status": "tentative",
+    "confidence": "medium",
+    "first_seen_date": "2026-08-31",
+    "last_seen_date": "2026-08-31",
+    "level": "national",
+    "discipline": "Rifle/Pistol",
+    "registration_deadline": null,
+    "eligibility": {
+      "age_category": null,
+      "gender_category": null,
+      "membership_required": null,
+      "notes": null
+    },
+    "organizing_body": "National Rifle Association of India (NRAI)",
+    "reminders_sent": [
+      "new_listing"
+    ]
+  },
+  "6fac5888f53d9ff8": {
+    "id": "6fac5888f53d9ff8",
+    "name": "INDIA OPEN COMPETITION AIR WEAPON EVENTS",
+    "date_start": "2026-09-18",
+    "date_end": "2026-09-27",
+    "location": {
+      "venue": "ASANSOL",
+      "city": null,
+      "state": null,
+      "country": "India"
+    },
+    "entry_path": "unclear",
+    "source_name": "NRAI Calendar",
+    "source_url": "https://www.thenrai.in/PDF/218de962-8b6d-459b-b69d-8dbf6021fd35.pdf",
+    "status": "tentative",
+    "confidence": "medium",
+    "first_seen_date": "2026-08-31",
+    "last_seen_date": "2026-08-31",
+    "level": "national",
+    "discipline": "Rifle/Pistol",
+    "registration_deadline": null,
+    "eligibility": {
+      "age_category": null,
+      "gender_category": null,
+      "membership_required": null,
+      "notes": null
+    },
+    "organizing_body": "National Rifle Association of India (NRAI)",
+    "reminders_sent": [
+      "new_listing"
+    ]
+  },
+  "270ec49b035e76b6": {
+    "id": "270ec49b035e76b6",
+    "name": "INDIA OPEN COMPETITION IN FIREARM EVENTS",
+    "date_start": "2026-10-05",
+    "date_end": "2026-10-18",
+    "location": {
+      "venue": "BHOPAL",
+      "city": null,
+      "state": null,
+      "country": "India"
+    },
+    "entry_path": "unclear",
+    "source_name": "NRAI Calendar",
+    "source_url": "https://www.thenrai.in/PDF/218de962-8b6d-459b-b69d-8dbf6021fd35.pdf",
+    "status": "tentative",
+    "confidence": "medium",
+    "first_seen_date": "2026-08-31",
+    "last_seen_date": "2026-08-31",
+    "level": "national",
+    "discipline": "Rifle/Pistol",
+    "registration_deadline": null,
+    "eligibility": {
+      "age_category": null,
+      "gender_category": null,
+      "membership_required": null,
+      "notes": null
+    },
+    "organizing_body": "National Rifle Association of India (NRAI)",
+    "reminders_sent": [
+      "new_listing"
+    ]
+  },
+  "e4cba17cc24bd2c8": {
+    "id": "e4cba17cc24bd2c8",
+    "name": "35TH AIGVMSC IN (PISTOL)",
+    "date_start": "2026-10-23",
+    "date_end": "2026-11-01",
+    "location": {
+      "venue": "DEHRADUN",
+      "city": null,
+      "state": null,
+      "country": "India"
+    },
+    "entry_path": "unclear",
+    "source_name": "NRAI Calendar",
+    "source_url": "https://www.thenrai.in/PDF/218de962-8b6d-459b-b69d-8dbf6021fd35.pdf",
+    "status": "tentative",
+    "confidence": "medium",
+    "first_seen_date": "2026-08-31",
+    "last_seen_date": "2026-08-31",
+    "level": "national",
+    "discipline": "Rifle/Pistol",
+    "registration_deadline": null,
+    "eligibility": {
+      "age_category": null,
+      "gender_category": null,
+      "membership_required": null,
+      "notes": null
+    },
+    "organizing_body": "National Rifle Association of India (NRAI)",
+    "reminders_sent": [
+      "new_listing"
+    ]
+  },
+  "b8b51f4885f0aa08": {
+    "id": "b8b51f4885f0aa08",
+    "name": "69TH NSCC RIFLE/PISTOL/SHOTGUN",
+    "date_start": "2026-12-11",
+    "date_end": "2026-12-31",
+    "location": {
+      "venue": "DELHI/BHOPAL/PUNE",
+      "city": null,
+      "state": null,
+      "country": "India"
+    },
+    "entry_path": "unclear",
+    "source_name": "NRAI Calendar",
+    "source_url": "https://www.thenrai.in/PDF/218de962-8b6d-459b-b69d-8dbf6021fd35.pdf",
+    "status": "tentative",
+    "confidence": "medium",
+    "first_seen_date": "2026-08-31",
+    "last_seen_date": "2026-08-31",
+    "level": "national",
+    "discipline": "Rifle/Pistol",
+    "registration_deadline": null,
+    "eligibility": {
+      "age_category": null,
+      "gender_category": null,
+      "membership_required": null,
+      "notes": null
+    },
+    "organizing_body": "National Rifle Association of India (NRAI)",
+    "reminders_sent": [
+      "new_listing"
+    ]
+  },
+  "61402adf26f9be49": {
+    "id": "61402adf26f9be49",
+    "name": "Maharashtra Air and Firearms Competition [MAFC 2026/2] - 25m STD, Sports & CFP Events - Relays",
+    "level": "state",
+    "discipline": "10m Air Rifle",
+    "location": {
+      "venue": "MRA Shooting Ranges, Mumbai",
+      "city": null,
+      "state": "Maharashtra",
+      "country": "India"
+    },
+    "date_start": "2026-08-29",
+    "date_end": "2026-09-01",
+    "registration_deadline": null,
+    "eligibility": {
+      "age_category": null,
+      "gender_category": null,
+      "membership_required": null,
+      "notes": null
+    },
+    "entry_path": "unclear",
+    "organizing_body": "Maharashtra Rifle Association",
+    "source_name": "Maharashtra Rifle Association",
+    "source_url": "https://maharifle.com/mra-downloads/competitions/1787762254_75e4a332eabf676a2ccd.pdf",
+    "status": "tentative",
+    "confidence": "low",
+    "first_seen_date": "2026-08-31",
+    "last_seen_date": "2026-08-31",
+    "reminders_sent": [
+      "new_listing"
+    ]
+  },
+  "2d4d38efa04711ba": {
+    "id": "2d4d38efa04711ba",
+    "name": "ISSF World Tour Target Sprint",
+    "date_start": "2026-10-02",
+    "date_end": "2026-10-04",
+    "location": {
+      "venue": null,
+      "city": "Bellinzona, Switzerland",
+      "state": null,
+      "country": null
+    },
+    "entry_path": "unclear",
+    "source_name": "ISSF Calendar",
+    "source_url": "https://www.issf-sports.org/competitions/3523",
+    "status": "confirmed",
+    "confidence": "medium",
+    "first_seen_date": "2026-08-31",
+    "last_seen_date": "2026-08-31",
+    "level": "international",
+    "discipline": "Rifle/Pistol",
+    "registration_deadline": null,
+    "eligibility": {
+      "age_category": null,
+      "gender_category": null,
+      "membership_required": null,
+      "notes": null
+    },
+    "organizing_body": "ISSF",
+    "reminders_sent": [
+      "new_listing"
+    ]
+  },
+  "b775905720b8a22b": {
+    "id": "b775905720b8a22b",
+    "name": "ISSF World Championship 300m Rifle",
+    "date_start": "2026-10-15",
+    "date_end": "2026-10-20",
+    "location": {
+      "venue": null,
+      "city": "Cairo, Egypt",
+      "state": null,
+      "country": null
+    },
+    "entry_path": "federation-selection",
+    "source_name": "ISSF Calendar",
+    "source_url": "https://www.issf-sports.org/competitions/3576",
+    "status": "confirmed",
+    "confidence": "medium",
+    "first_seen_date": "2026-08-31",
+    "last_seen_date": "2026-08-31",
+    "level": "international",
+    "discipline": "Rifle/Pistol",
+    "registration_deadline": null,
+    "eligibility": {
+      "age_category": null,
+      "gender_category": null,
+      "membership_required": null,
+      "notes": null
+    },
+    "organizing_body": "ISSF",
+    "reminders_sent": [
+      "new_listing"
+    ]
+  },
+  "ea4bfe1b2dea48a9": {
+    "id": "ea4bfe1b2dea48a9",
+    "name": "ISSF Grand Prix Rifle / Pistol / Shotgun",
+    "date_start": "2026-10-18",
+    "date_end": "2026-10-28",
+    "location": {
+      "venue": null,
+      "city": "Shymkent, Kazakhstan",
+      "state": null,
+      "country": null
+    },
+    "entry_path": "unclear",
+    "source_name": "ISSF Calendar",
+    "source_url": "https://www.issf-sports.org/competitions/3569",
+    "status": "confirmed",
+    "confidence": "medium",
+    "first_seen_date": "2026-08-31",
+    "last_seen_date": "2026-08-31",
+    "level": "international",
+    "discipline": "Rifle/Pistol/Shotgun",
+    "registration_deadline": null,
+    "eligibility": {
+      "age_category": null,
+      "gender_category": null,
+      "membership_required": null,
+      "notes": null
+    },
+    "organizing_body": "ISSF",
+    "reminders_sent": [
+      "new_listing"
+    ]
+  },
+  "9e75d05dc79ab274": {
+    "id": "9e75d05dc79ab274",
+    "name": "15th Championship of the Americas",
+    "date_start": "2026-11-21",
+    "date_end": "2026-12-01",
+    "location": {
+      "venue": null,
+      "city": "Lima, Peru",
+      "state": null,
+      "country": null
+    },
+    "entry_path": "unclear",
+    "source_name": "ISSF Calendar",
+    "source_url": "https://www.issf-sports.org/competitions/3524",
+    "status": "confirmed",
+    "confidence": "medium",
+    "first_seen_date": "2026-08-31",
+    "last_seen_date": "2026-08-31",
+    "level": "international",
+    "discipline": "Rifle/Pistol",
+    "registration_deadline": null,
+    "eligibility": {
+      "age_category": null,
+      "gender_category": null,
+      "membership_required": null,
+      "notes": null
+    },
+    "organizing_body": "ISSF",
+    "reminders_sent": [
+      "new_listing"
+    ]
+  }
+}
